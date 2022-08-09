@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Pedro Ribeiro</h1>
-<h3 align="center">I'm a self-taught student learning web development.</h3>
+<h1 align="center">Hi 👋, I'm Pedro</h1>
+<h3 align="center">I'm a self-taught developer that loves web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrblamz&label=Profile%20views&color=0e75b6&style=flat" alt="mrblamz" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Typescript**
 
 - 📫 How to reach me **pedro.miguel.r1@hotmail.com**
 
